@@ -1,0 +1,10 @@
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WFA\Window-Form-App\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WFA\Window-Form-App\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WFA\Window-Form-App\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WFA\Window-Form-App\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojAssemblyReference.cache
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WFA\Window-Form-App\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WFA\Window-Form-App\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WFA\Window-Form-App\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WFA\Window-Form-App\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WFA\Window-Form-App\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WFA\Window-Form-App\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
